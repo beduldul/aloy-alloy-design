@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived alloy candidate data, please cite it as below."
+title: "Aloy: A transparent machine-learning pipeline for inverse design of low-cost, high-strength aluminium and magnesium alloys"
+type: software
+authors:
+  - family-names: "Al-Kaysan"
+    given-names: "Abdul Afif"
+    affiliation: "Institut Teknologi Bandung, Metallurgical Engineering"
+version: "1.0.0"
+date-released: "2026-09-19"
+license: MIT
+repository-code: "https://github.com/beduldul/aloy-alloy-design"
+url: "https://doi.org/10.5281/zenodo.22844739"
+keywords:
+  - materials informatics
+  - aluminium alloys
+  - magnesium alloys
+  - multi-objective optimisation
+  - Bayesian optimisation
+  - CALPHAD
+  - alloy design
+abstract: >
+  A reproducible pipeline that turns two open experimental alloy datasets into
+  Pareto-optimal candidate compositions, with leakage-free cross-validation,
+  physics-based (Hume-Rothery) and CALPHAD phase screening, Bayesian active
+  learning, and conformal prediction intervals. It produces explicit laboratory
+  protocols and benchmarks every recommendation against commercial AA7075,
+  AA6061, AZ91D, ZK60 and WE43. Every reported number is accompanied by an error
+  bar and every limitation is stated; the package is an experiment-prioritisation
+  tool, not a substitute for experiment.
+references:
+  - type: dataset
+    title: "Aluminium alloy dataset for supervised learning"
+    authors:
+      - family-names: "Bhat"
+        given-names: "Ninad"
+      - family-names: "Barnard"
+        given-names: "Amanda"
+      - family-names: "Birbilis"
+        given-names: "Nick"
+    doi: "10.17632/b6br4yk6r3.1"
+    year: 2023
+  - type: dataset
+    title: "Magnesium alloy mechanical property database"
+    authors:
+      - family-names: "Ghorbani"
+        given-names: "Marzie"
+      - family-names: "Birbilis"
+        given-names: "Nick"
+    doi: "10.17632/2fjhmdg5nt.2"
+    year: 2025

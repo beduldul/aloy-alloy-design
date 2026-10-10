@@ -1,0 +1,163 @@
+==========================================================================
+LABORATORY PROTOCOL — Candidate 1 (T6)
+==========================================================================
+
+1. TARGET COMPOSITION (wt%)
+   Al:87.10  Mg:4.66  Zn:7.07  Cu:1.15  Si:0.01  Fe:0.01
+
+2. CHARGE for a 500 g ingot (with overage)
+   Al    435.50 g
+   Zn     37.81 g
+   Mg     25.61 g
+   Cu      5.76 g
+   Si      0.06 g
+   Fe      0.06 g
+   (balance = Al, add last to minimise oxidation)
+
+3. MELTING & CASTING
+   Melt at 700 C; pour at 690 C into a steel mould.
+   Add Al-5Ti-1B grain refiner at 0.1 wt% just before pouring.
+
+4. HOMOGENISATION (optional but recommended)
+   465 C / 12 h, then air cool — removes microsegregation.
+
+5. SOLUTION TREATMENT
+   465-475 C for 2 h
+   Quench: cold water (<40 C), transfer < 10 s
+   (stay BELOW 477 C to avoid incipient melting)
+
+6. ARTIFICIAL AGING
+   T6 (peak-aged): 120 C for 24 h, then air cool
+
+7. PREDICTED PROPERTIES (model + conformal 90% interval)
+   Yield strength : 625 MPa  [518, 733]
+   UTS (est.)     : 674 MPa
+   Elongation     : 8.9 %
+   Density        : 2.773 g/cm3
+
+8. CHARACTERISATION CHECKLIST
+   [ ] Optical/SEM + EDS  — grain size, second-phase morphology
+   [ ] XRD                — confirm fcc Al matrix (+ MgZn2 / Al2Cu peaks)
+   [ ] Vickers HV (10 indent) — before and after ageing
+   [ ] Tensile test, 3 specimens, ASTM E8 — YS, UTS, elongation
+   [ ] Density (Archimedes) — compare with prediction
+
+9. NOTES
+   - Zn & Mg overcharged (Zn +7%, Mg +10%) to offset volatilisation losses.
+   - Do NOT exceed 475 C in solutionising: incipient melting of the Al-Zn-Mg-Cu eutectic occurs near 477 C -> hot cracking.
+   - Grain refinement: add Al-5Ti-1B master alloy (0.1 wt%) before pouring.
+   - Degas with Ar or C2Cl6 to limit porosity (H2 solubility falls sharply on solidification).
+   - Cu-rich: expect Al2Cu/Al7Cu2Fe dispersoids; slow cooling may form coarse constituent phases -> minimise with rapid solidification.
+
+   >>> Feed the measured YS back into outputs/experiment_log.json
+       and re-run `python3 -m aloy.active` to update the model. <<<
+==========================================================================
+
+==========================================================================
+LABORATORY PROTOCOL — Candidate 2 (T6)
+==========================================================================
+
+1. TARGET COMPOSITION (wt%)
+   Al:87.81  Mg:3.02  Zn:7.80  Cu:1.33  Si:0.01  Fe:0.02
+
+2. CHARGE for a 500 g ingot (with overage)
+   Al    439.03 g
+   Zn     41.75 g
+   Mg     16.63 g
+   Cu      6.67 g
+   Fe      0.10 g
+   Si      0.07 g
+   (balance = Al, add last to minimise oxidation)
+
+3. MELTING & CASTING
+   Melt at 700 C; pour at 690 C into a steel mould.
+   Add Al-5Ti-1B grain refiner at 0.1 wt% just before pouring.
+
+4. HOMOGENISATION (optional but recommended)
+   465 C / 12 h, then air cool — removes microsegregation.
+
+5. SOLUTION TREATMENT
+   465-475 C for 2 h
+   Quench: cold water (<40 C), transfer < 10 s
+   (stay BELOW 477 C to avoid incipient melting)
+
+6. ARTIFICIAL AGING
+   T6 (peak-aged): 120 C for 24 h, then air cool
+
+7. PREDICTED PROPERTIES (model + conformal 90% interval)
+   Yield strength : 625 MPa  [517, 732]
+   UTS (est.)     : 660 MPa
+   Elongation     : 12.3 %
+   Density        : 2.816 g/cm3
+
+8. CHARACTERISATION CHECKLIST
+   [ ] Optical/SEM + EDS  — grain size, second-phase morphology
+   [ ] XRD                — confirm fcc Al matrix (+ MgZn2 / Al2Cu peaks)
+   [ ] Vickers HV (10 indent) — before and after ageing
+   [ ] Tensile test, 3 specimens, ASTM E8 — YS, UTS, elongation
+   [ ] Density (Archimedes) — compare with prediction
+
+9. NOTES
+   - Zn & Mg overcharged (Zn +7%, Mg +10%) to offset volatilisation losses.
+   - Do NOT exceed 475 C in solutionising: incipient melting of the Al-Zn-Mg-Cu eutectic occurs near 477 C -> hot cracking.
+   - Grain refinement: add Al-5Ti-1B master alloy (0.1 wt%) before pouring.
+   - Degas with Ar or C2Cl6 to limit porosity (H2 solubility falls sharply on solidification).
+   - Cu-rich: expect Al2Cu/Al7Cu2Fe dispersoids; slow cooling may form coarse constituent phases -> minimise with rapid solidification.
+
+   >>> Feed the measured YS back into outputs/experiment_log.json
+       and re-run `python3 -m aloy.active` to update the model. <<<
+==========================================================================
+
+==========================================================================
+LABORATORY PROTOCOL — Candidate 3 (T6)
+==========================================================================
+
+1. TARGET COMPOSITION (wt%)
+   Al:87.97  Mg:3.07  Zn:7.97  Cu:0.96  Si:0.01  Fe:0.02
+
+2. CHARGE for a 500 g ingot (with overage)
+   Al    439.85 g
+   Zn     42.63 g
+   Mg     16.86 g
+   Cu      4.81 g
+   Fe      0.10 g
+   Si      0.07 g
+   (balance = Al, add last to minimise oxidation)
+
+3. MELTING & CASTING
+   Melt at 700 C; pour at 690 C into a steel mould.
+   Add Al-5Ti-1B grain refiner at 0.1 wt% just before pouring.
+
+4. HOMOGENISATION (optional but recommended)
+   465 C / 12 h, then air cool — removes microsegregation.
+
+5. SOLUTION TREATMENT
+   465-475 C for 2 h
+   Quench: cold water (<40 C), transfer < 10 s
+   (stay BELOW 477 C to avoid incipient melting)
+
+6. ARTIFICIAL AGING
+   T6 (peak-aged): 120 C for 24 h, then air cool
+
+7. PREDICTED PROPERTIES (model + conformal 90% interval)
+   Yield strength : 618 MPa  [510, 725]
+   UTS (est.)     : 650 MPa
+   Elongation     : 11.8 %
+   Density        : 2.811 g/cm3
+
+8. CHARACTERISATION CHECKLIST
+   [ ] Optical/SEM + EDS  — grain size, second-phase morphology
+   [ ] XRD                — confirm fcc Al matrix (+ MgZn2 / Al2Cu peaks)
+   [ ] Vickers HV (10 indent) — before and after ageing
+   [ ] Tensile test, 3 specimens, ASTM E8 — YS, UTS, elongation
+   [ ] Density (Archimedes) — compare with prediction
+
+9. NOTES
+   - Zn & Mg overcharged (Zn +7%, Mg +10%) to offset volatilisation losses.
+   - Do NOT exceed 475 C in solutionising: incipient melting of the Al-Zn-Mg-Cu eutectic occurs near 477 C -> hot cracking.
+   - Grain refinement: add Al-5Ti-1B master alloy (0.1 wt%) before pouring.
+   - Degas with Ar or C2Cl6 to limit porosity (H2 solubility falls sharply on solidification).
+
+   >>> Feed the measured YS back into outputs/experiment_log.json
+       and re-run `python3 -m aloy.active` to update the model. <<<
+==========================================================================

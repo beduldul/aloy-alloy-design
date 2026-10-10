@@ -1,0 +1,245 @@
+[
+  {
+    "composition": {
+      "Al": 0.9069,
+      "Mg": 0.0113,
+      "Zn": 0.042,
+      "Cu": 0.0173,
+      "Mn": 0.0064,
+      "Fe": 0.0053,
+      "Ti": 0.0053,
+      "Zr": 0.0053
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 573.7168475765305
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.934,
+      "Zn": 0.0526,
+      "Cr": 0.0067,
+      "Ti": 0.0067
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 569.4343255594955
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8862,
+      "Zn": 0.0338,
+      "Cu": 0.0272,
+      "Si": 0.039,
+      "Mn": 0.0052,
+      "Fe": 0.0043,
+      "Zr": 0.0043
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 345.2423081992809
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8946,
+      "Mg": 0.0241,
+      "Zn": 0.0372,
+      "Cu": 0.0298,
+      "Cr": 0.0047,
+      "Ti": 0.0047,
+      "Zr": 0.0047
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 550.6846241317401
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8866,
+      "Mg": 0.0221,
+      "Zn": 0.034,
+      "Si": 0.0392,
+      "Mn": 0.0052,
+      "Fe": 0.0043,
+      "Ti": 0.0043,
+      "Zr": 0.0043
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 352.9807222714362
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.9069,
+      "Mg": 0.0113,
+      "Zn": 0.042,
+      "Cu": 0.0173,
+      "Mn": 0.0064,
+      "Fe": 0.0053,
+      "Ti": 0.0053,
+      "Zr": 0.0053
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 574.2172207490943
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.934,
+      "Zn": 0.0526,
+      "Cr": 0.0067,
+      "Ti": 0.0067
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 559.6654823444651
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8862,
+      "Zn": 0.0338,
+      "Cu": 0.0272,
+      "Si": 0.039,
+      "Mn": 0.0052,
+      "Fe": 0.0043,
+      "Zr": 0.0043
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 350.67135446130925
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8946,
+      "Mg": 0.0241,
+      "Zn": 0.0372,
+      "Cu": 0.0298,
+      "Cr": 0.0047,
+      "Ti": 0.0047,
+      "Zr": 0.0047
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 551.9352518472514
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8866,
+      "Mg": 0.0221,
+      "Zn": 0.034,
+      "Si": 0.0392,
+      "Mn": 0.0052,
+      "Fe": 0.0043,
+      "Ti": 0.0043,
+      "Zr": 0.0043
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 362.05062044740225
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.9069,
+      "Mg": 0.0113,
+      "Zn": 0.042,
+      "Cu": 0.0173,
+      "Mn": 0.0064,
+      "Fe": 0.0053,
+      "Ti": 0.0053,
+      "Zr": 0.0053
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 573.7168475765307
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.934,
+      "Zn": 0.0526,
+      "Cr": 0.0067,
+      "Ti": 0.0067
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 569.4343255594954
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8862,
+      "Zn": 0.0338,
+      "Cu": 0.0272,
+      "Si": 0.039,
+      "Mn": 0.0052,
+      "Fe": 0.0043,
+      "Zr": 0.0043
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 345.2423081992809
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8946,
+      "Mg": 0.0241,
+      "Zn": 0.0372,
+      "Cu": 0.0298,
+      "Cr": 0.0047,
+      "Ti": 0.0047,
+      "Zr": 0.0047
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 550.68462413174
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8866,
+      "Mg": 0.0221,
+      "Zn": 0.034,
+      "Si": 0.0392,
+      "Mn": 0.0052,
+      "Fe": 0.0043,
+      "Ti": 0.0043,
+      "Zr": 0.0043
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 352.98072227143615
+    }
+  },
+  {
+    "composition": {
+      "Al": 0.8780552995,
+      "Mg": 0.0302392481,
+      "Zn": 0.0780333979,
+      "Cu": 0.013346305,
+      "Si": 0.0001306295,
+      "Fe": 0.00019512
+    },
+    "measured": {},
+    "predicted": {
+      "ys_mpa": 624.5326077175314
+    },
+    "meta": {
+      "source": "Zenodo 10.5281/zenodo.22844739; outputs/candidates_final.csv row 121 (candidate 2)",
+      "entry": "aloy.experiment_log",
+      "date": "2026-10-06",
+      "notes": "Headline candidate Al-3.0Mg-7.8Zn-1.3Cu (wt%). Planned T6 cast per outputs/lab_protocols.json; NO tensile data exists yet.",
+      "status": "planned; no data yet"
+    }
+  }
+]

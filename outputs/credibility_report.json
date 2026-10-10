@@ -1,0 +1,9 @@
+{
+  "target": "ys_mpa",
+  "alpha": 0.1,
+  "n_cal": 696,
+  "q_halfwidth": 107.52285128151688,
+  "coverage_val": 0.9011299435028248,
+  "nominal_coverage": 0.9,
+  "cost_metrics_note": "strength_per_dollar = YS_pred / cost_USD_per_kg"
+}

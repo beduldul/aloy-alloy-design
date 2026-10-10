@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Candidate 1 (T6)",
+    "composition_wt": {
+      "Al": 0.8710026613836243,
+      "Mg": 0.0465631200291493,
+      "Zn": 0.0706821949512717,
+      "Cu": 0.0115248786499555,
+      "Si": 0.0001133559036408,
+      "Fe": 0.0001106131978996
+    },
+    "charge_g": {
+      "Al": 435.5,
+      "Mg": 25.61,
+      "Zn": 37.81,
+      "Cu": 5.76,
+      "Si": 0.06,
+      "Fe": 0.06
+    },
+    "batch_g": 500.0,
+    "melting_C": 700.0,
+    "pour_C": 690.0,
+    "solutionise_C": [
+      465.0,
+      475.0
+    ],
+    "solutionise_h": 2.0,
+    "quench": "cold water (<40 C), transfer < 10 s",
+    "age_T_C": 120.0,
+    "age_h": 24.0,
+    "age_label": "T6 (peak-aged)",
+    "predicted_YS": 625.2290059502277,
+    "predicted_UTS": 674.119944318228,
+    "predicted_elong": 8.863524923395316,
+    "predicted_rho": 2.772833024125605,
+    "ys_interval90": [
+      517.7061546687108,
+      732.7518572317446
+    ],
+    "phase_risk": "medium",
+    "notes": [
+      "Zn & Mg overcharged (Zn +7%, Mg +10%) to offset volatilisation losses.",
+      "Do NOT exceed 475 C in solutionising: incipient melting of the Al-Zn-Mg-Cu eutectic occurs near 477 C -> hot cracking.",
+      "Grain refinement: add Al-5Ti-1B master alloy (0.1 wt%) before pouring.",
+      "Degas with Ar or C2Cl6 to limit porosity (H2 solubility falls sharply on solidification).",
+      "Cu-rich: expect Al2Cu/Al7Cu2Fe dispersoids; slow cooling may form coarse constituent phases -> minimise with rapid solidification."
+    ]
+  },
+  {
+    "name": "Candidate 2 (T6)",
+    "composition_wt": {
+      "Al": 0.8780529253222041,
+      "Mg": 0.0302391663265414,
+      "Zn": 0.0780331868820703,
+      "Cu": 0.0133462688714121,
+      "Si": 0.0001306291702535,
+      "Fe": 0.0001951194876558
+    },
+    "charge_g": {
+      "Al": 439.03,
+      "Mg": 16.63,
+      "Zn": 41.75,
+      "Cu": 6.67,
+      "Si": 0.07,
+      "Fe": 0.1
+    },
+    "batch_g": 500.0,
+    "melting_C": 700.0,
+    "pour_C": 690.0,
+    "solutionise_C": [
+      465.0,
+      475.0
+    ],
+    "solutionise_h": 2.0,
+    "quench": "cold water (<40 C), transfer < 10 s",
+    "age_T_C": 120.0,
+    "age_h": 24.0,
+    "age_label": "T6 (peak-aged)",
+    "predicted_YS": 624.5326077175314,
+    "predicted_UTS": 659.9806642572703,
+    "predicted_elong": 12.297741219796656,
+    "predicted_rho": 2.8160082515056706,
+    "ys_interval90": [
+      517.0097564360145,
+      732.0554589990483
+    ],
+    "phase_risk": "medium",
+    "notes": [
+      "Zn & Mg overcharged (Zn +7%, Mg +10%) to offset volatilisation losses.",
+      "Do NOT exceed 475 C in solutionising: incipient melting of the Al-Zn-Mg-Cu eutectic occurs near 477 C -> hot cracking.",
+      "Grain refinement: add Al-5Ti-1B master alloy (0.1 wt%) before pouring.",
+      "Degas with Ar or C2Cl6 to limit porosity (H2 solubility falls sharply on solidification).",
+      "Cu-rich: expect Al2Cu/Al7Cu2Fe dispersoids; slow cooling may form coarse constituent phases -> minimise with rapid solidification."
+    ]
+  },
+  {
+    "name": "Candidate 3 (T6)",
+    "composition_wt": {
+      "Al": 0.8796960233750968,
+      "Mg": 0.0306682581572005,
+      "Zn": 0.0796758694195622,
+      "Cu": 0.0096244821698129,
+      "Si": 0.0001333790548275,
+      "Fe": 0.0001992269627943
+    },
+    "charge_g": {
+      "Al": 439.85,
+      "Mg": 16.86,
+      "Zn": 42.63,
+      "Cu": 4.81,
+      "Si": 0.07,
+      "Fe": 0.1
+    },
+    "batch_g": 500.0,
+    "melting_C": 700.0,
+    "pour_C": 690.0,
+    "solutionise_C": [
+      465.0,
+      475.0
+    ],
+    "solutionise_h": 2.0,
+    "quench": "cold water (<40 C), transfer < 10 s",
+    "age_T_C": 120.0,
+    "age_h": 24.0,
+    "age_label": "T6 (peak-aged)",
+    "predicted_YS": 617.7067684450495,
+    "predicted_UTS": 649.8486680172763,
+    "predicted_elong": 11.804392645476176,
+    "predicted_rho": 2.8106891362049806,
+    "ys_interval90": [
+      510.18391716353267,
+      725.2296197265664
+    ],
+    "phase_risk": "medium",
+    "notes": [
+      "Zn & Mg overcharged (Zn +7%, Mg +10%) to offset volatilisation losses.",
+      "Do NOT exceed 475 C in solutionising: incipient melting of the Al-Zn-Mg-Cu eutectic occurs near 477 C -> hot cracking.",
+      "Grain refinement: add Al-5Ti-1B master alloy (0.1 wt%) before pouring.",
+      "Degas with Ar or C2Cl6 to limit porosity (H2 solubility falls sharply on solidification)."
+    ]
+  }
+]

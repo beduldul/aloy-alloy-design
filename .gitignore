@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+
+# retrainable model artefacts (rebuild with `python3 -m aloy.pipeline` etc.)
+outputs/models/
+outputs/models_mg/
+
+# large generated release archives (rebuild with `python3 -m aloy.release --build`)
+aloy-v*.zip
+
+# misc
+.benchmarks/
+.DS_Store
+.vscode/
+.idea/
+README.md.bak

@@ -1,0 +1,19 @@
+Simulating the closed research loop (no metal consumed) ...
+Comparing model-guided 'active' vs 'random' experiment selection.
+
+Mean BEST YS found after each round (MPa):
+strategy  active  random
+round                   
+1          686.1   682.0
+2          687.6   682.0
+3          688.1   682.0
+4          688.5   682.0
+5          689.6   682.0
+6          690.6   682.0
+
+Final best after 6 rounds (~30 experiments):
+  active  : 690.6 MPa
+  random  : 682.0 MPa
+  -> active-learning advantage: +1.3%
+
+-> /Users/abdulafifalkaysan/Documents/metalurgi fisik/outputs/loop_simulation.csv

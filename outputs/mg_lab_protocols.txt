@@ -1,0 +1,180 @@
+==========================================================================
+MAGNESIUM LABORATORY PROTOCOL — Mg Candidate 1
+==========================================================================
+
+1. TARGET COMPOSITION (wt%)
+   Mg:91.38  Al:0.38  Zn:0.52  Mn:0.01  Ca:1.82  Li:4.55  Sn:0.11  Zr:0.28  Sr:0.14  Si:0.01  Ag:0.04  Cu:0.02  Y:0.23  Nd:0.07  Ce:0.26  La:0.14  Gd:0.03
+
+2. CHARGE for a 300 g ingot
+   Mg    282.36 g
+   Li     15.71 g
+   Ca      5.73 g
+   Zn      1.72 g
+   Al      1.13 g
+   Zr      0.84 g
+   Ce      0.79 g
+   Y       0.73 g
+   La      0.43 g
+   Sr      0.42 g
+   Sn      0.34 g
+   Nd      0.21 g
+   Ag      0.11 g
+   Gd      0.10 g
+   Cu      0.05 g
+   Mn      0.04 g
+   Si      0.04 g
+
+3. MELTING & CASTING  (SAFETY CRITICAL)
+   Melt at 720 C; pour at 700 C.
+   COVER GAS: SF6/CO2 (0.5-1% SF6) or protective flux (e.g. RJ-1) -- MANDATORY
+   FLUX: RJ-1 or KCl-MgCl2 flux for refining; skim before pouring
+   Preheat mould and tools to >150 C.
+
+4. SOLUTION TREATMENT
+   340 C for 2 h
+   Quench in warm water or air (Mg quench-sensitive; avoid cold-water cracking).
+
+5. AGING
+   none (T4/anneal (Mg-Li))
+
+6. PREDICTED PROPERTIES (model)
+   Yield strength : 267 MPa
+   Ductility      : 22.8 %
+   Density        : 1.594 g/cm3
+   Specific str.  : 167 MPa/(g/cm3)
+
+7. SAFETY (READ BEFORE STARTING)
+   !! NEVER melt Mg without SF6/CO2 cover gas or flux -- molten Mg BURNS in air.
+   !! Keep dry sand / class-D extinguisher at hand; NEVER use water on an Mg fire.
+   !! Preheat all tools, moulds and charge to >150 C to avoid moisture (explosion risk).
+   !! Work in a fume hood / well-ventilated area -- MgO fume and SF6 decomposition products.
+   !! No rust or iron oxide in contact with the melt (thermite-type reaction).
+
+8. NOTES
+   - Family detected: mg_li -> heat treatment T4/anneal (Mg-Li).
+   - Grain refinement / texture control matters more for Mg than for Al (HCP has few slip systems): consider Zr (Mg-Zn-Zr) or Ca (weak texture).
+   - Mg-RE alloys form Mg-RE intermetallics at grain boundaries -> creep resistance.
+   - Mg-Li is the lightest structural metal (rho ~1.35-1.6); Li is volatile -- expect loss, and handle Li dry (reacts with moisture).
+
+   >>> Record measured YS in outputs/experiment_log_mg.json <<<
+==========================================================================
+
+==========================================================================
+MAGNESIUM LABORATORY PROTOCOL — Mg Candidate 2
+==========================================================================
+
+1. TARGET COMPOSITION (wt%)
+   Mg:87.12  Al:8.41  Zn:0.40  Mn:0.00  Ca:1.85  Li:0.37  Sn:0.00  Zr:0.04  Sr:0.92  Si:0.50  Ag:0.01  Cu:0.04  Y:0.08  Nd:0.11  Ce:0.00  La:0.12  Gd:0.01
+
+2. CHARGE for a 300 g ingot
+   Mg    269.21 g
+   Al     25.24 g
+   Ca      5.83 g
+   Sr      2.76 g
+   Si      1.50 g
+   Zn      1.33 g
+   Li      1.27 g
+   La      0.35 g
+   Nd      0.34 g
+   Y       0.27 g
+   Zr      0.13 g
+   Cu      0.12 g
+   Ag      0.04 g
+   Gd      0.02 g
+   Mn      0.01 g
+   Sn      0.01 g
+   Ce      0.01 g
+
+3. MELTING & CASTING  (SAFETY CRITICAL)
+   Melt at 720 C; pour at 700 C.
+   COVER GAS: SF6/CO2 (0.5-1% SF6) or protective flux (e.g. RJ-1) -- MANDATORY
+   FLUX: RJ-1 or KCl-MgCl2 flux for refining; skim before pouring
+   Preheat mould and tools to >150 C.
+
+4. SOLUTION TREATMENT
+   415 C for 18 h
+   Quench in warm water or air (Mg quench-sensitive; avoid cold-water cracking).
+
+5. ARTIFICIAL AGING
+   175 C for 16 h  [T6 (Mg-Al-Zn)]
+
+6. PREDICTED PROPERTIES (model)
+   Yield strength : 342 MPa
+   Ductility      : 5.8 %
+   Density        : 1.792 g/cm3
+   Specific str.  : 191 MPa/(g/cm3)
+
+7. SAFETY (READ BEFORE STARTING)
+   !! NEVER melt Mg without SF6/CO2 cover gas or flux -- molten Mg BURNS in air.
+   !! Keep dry sand / class-D extinguisher at hand; NEVER use water on an Mg fire.
+   !! Preheat all tools, moulds and charge to >150 C to avoid moisture (explosion risk).
+   !! Work in a fume hood / well-ventilated area -- MgO fume and SF6 decomposition products.
+   !! No rust or iron oxide in contact with the melt (thermite-type reaction).
+
+8. NOTES
+   - Family detected: mg_al_zn -> heat treatment T6 (Mg-Al-Zn).
+   - Grain refinement / texture control matters more for Mg than for Al (HCP has few slip systems): consider Zr (Mg-Zn-Zr) or Ca (weak texture).
+   - Mg-RE alloys form Mg-RE intermetallics at grain boundaries -> creep resistance.
+
+   >>> Record measured YS in outputs/experiment_log_mg.json <<<
+==========================================================================
+
+==========================================================================
+MAGNESIUM LABORATORY PROTOCOL — Mg Candidate 3
+==========================================================================
+
+1. TARGET COMPOSITION (wt%)
+   Mg:82.25  Al:8.94  Zn:1.42  Ca:1.64  Li:0.67  Sn:0.06  Zr:0.05  Sr:0.17  Si:0.03  Ag:0.01  Cu:0.00  Y:4.55  Nd:0.08  Ce:0.00  La:0.03  Gd:0.09
+
+2. CHARGE for a 300 g ingot
+   Mg    254.14 g
+   Al     26.82 g
+   Y      14.32 g
+   Ca      5.17 g
+   Zn      4.68 g
+   Li      2.32 g
+   Sr      0.52 g
+   Gd      0.28 g
+   Nd      0.25 g
+   Sn      0.18 g
+   Zr      0.15 g
+   Si      0.08 g
+   La      0.08 g
+   Ag      0.04 g
+   Cu      0.01 g
+   Ce      0.01 g
+
+3. MELTING & CASTING  (SAFETY CRITICAL)
+   Melt at 720 C; pour at 700 C.
+   COVER GAS: SF6/CO2 (0.5-1% SF6) or protective flux (e.g. RJ-1) -- MANDATORY
+   FLUX: RJ-1 or KCl-MgCl2 flux for refining; skim before pouring
+   Preheat mould and tools to >150 C.
+
+4. SOLUTION TREATMENT
+   525 C for 8 h
+   Quench in warm water or air (Mg quench-sensitive; avoid cold-water cracking).
+
+5. ARTIFICIAL AGING
+   200 C for 16 h  [T6 (Mg-RE)]
+
+6. PREDICTED PROPERTIES (model)
+   Yield strength : 380 MPa
+   Ductility      : 8.0 %
+   Density        : 1.842 g/cm3
+   Specific str.  : 206 MPa/(g/cm3)
+
+7. SAFETY (READ BEFORE STARTING)
+   !! NEVER melt Mg without SF6/CO2 cover gas or flux -- molten Mg BURNS in air.
+   !! Keep dry sand / class-D extinguisher at hand; NEVER use water on an Mg fire.
+   !! Preheat all tools, moulds and charge to >150 C to avoid moisture (explosion risk).
+   !! Work in a fume hood / well-ventilated area -- MgO fume and SF6 decomposition products.
+   !! No rust or iron oxide in contact with the melt (thermite-type reaction).
+
+8. NOTES
+   - Family detected: mg_re -> heat treatment T6 (Mg-RE).
+   - Grain refinement / texture control matters more for Mg than for Al (HCP has few slip systems): consider Zr (Mg-Zn-Zr) or Ca (weak texture).
+   - Mg-RE alloys form Mg-RE intermetallics at grain boundaries -> creep resistance.
+   - Yttrium is expensive (~30 USD/kg): check the cost budget.
+
+   >>> Record measured YS in outputs/experiment_log_mg.json <<<
+==========================================================================
